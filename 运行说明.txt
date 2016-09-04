@@ -1,0 +1,7 @@
+！！！环境要求VS2013及以上版本、SQL Server 2012及以上版本
+
+1.将DataBase文件夹里的DemoDB_V1.4.bak文件还原。
+
+2.将项目程序文件中的WebConfig文件中的数据库连接字段修改为自己计算机的连接。
+
+3.从Login.aspx页面进入系统。
